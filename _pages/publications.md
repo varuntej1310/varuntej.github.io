@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Sumit Walia\*, **Bachu Varun Tej** \*, Joydeep Devnath, Joycee Mekie, Fast and Low-Power Quantized Fixed Posit High Accuracy DNN Implementation, IEEE Transactions on VLSI Systems Brief. (Submitted - May 2021)(\* - Equal Contribution)
+* C.K.Jha, **B.V.Tej**, J. Mekie, BRAD: Biased Restoring Array Dividers for Error Resilient Applications, IEEE Transactions on Circuits and Systems – II (Re Submitted - May 2021)
+* Pramod Kumar, Neelam Surana, **Bachu Varun Tej**, Joycee Mekie, Homo-8T: Homogeneous Energy-Efficient Mixed-VT SRAM Design Techniques for Mobile Video Decoder and Neural Network, IEEE Transactions on VLSI Systems (Submitted - June 2021)
