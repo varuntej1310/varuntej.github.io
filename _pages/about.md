@@ -28,4 +28,7 @@ Educational Background
 | Class XII     | Narayana Junior College, Anantapur      | 96.8%   | 2011-2013 |
 | Class X       | Keshava Reddy Concept School, Anantapur | 93.67%  | 2010-2011 |
 
-
+Skills
+======
+* **Tools** - Xilinx Vivado, Synopsys Design Compiler, Synopsys VCS, MATLAB, Cadence Virtuoso, Sentaurus TCAD
+* **Programming and Scripting Languages** - Verilog, Python, System Verilog, C, Bash, TCL
