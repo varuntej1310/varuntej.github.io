@@ -14,7 +14,8 @@ Professional Experience
 ======
 1. Graduate Technical Intern, Intel India (Jul 2020 - Dec 2020)
 2. Software Development Engineer, Mercedes Benz R&D India (Jul 2017 - Oct 2018)
-[More](https://varuntejb.github.io/experience/)
+
+[More about Profession and Internship Experience](https://varuntejb.github.io/experience/)
 
 Educational Background
 ======
