@@ -24,6 +24,6 @@ Internship Experience
 
 Freelance
 =======
-* Subject Matter Expert, Chegg Inc (Oct 2017 - Present)
+* Subject Matter Expert, Chegg India (Oct 2017 - Present)
   * As a subject matter expert, I help students across the world to understand the concepts and solve the questions to support them in the academia.
   * Currently working in the subjects of Advanced Math, Algebra, Statistics and Probability.
